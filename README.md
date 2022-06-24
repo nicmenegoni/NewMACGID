@@ -10,4 +10,4 @@ If you want to use it in your research please cite:
 
 and
 
-- Bersani, D. Eò, S. Vignola, P. Moltifiori, G. Marino, I. G. Lottici, P. P. e Diella, V. (2009). Micro-Raman spectroscopy as a routine tool for garnet analysis. Spectrochimica Acta Part A: Molecular e Biomolecular Spectroscopy, 73(3), 484-491.
+- Bersani, D., Andò, S., Vignola, P., Moltifiori, G., Marino, I. G., Lottici, P. P., & Diella, V. (2009). Micro-Raman spectroscopy as a routine tool for garnet analysis. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 73(3), 484-491.
